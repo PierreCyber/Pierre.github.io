@@ -15,7 +15,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 Here I have created a simple network using Cisco's Packet Tracer software.
 ![branching](Simple network.PNG)
 
-[Here's how I did it:](file:///C:/Users/PP/Desktop/My%20Network.pdf)
+[Here's how I did it:](My Network.pdf)
 
 ## Header 2
 
