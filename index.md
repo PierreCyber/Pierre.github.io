@@ -13,7 +13,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Building a Network
 
 Here I have created a simple network using Cisco's Packet Tracer software.
-
+![branching]Simple network.PNG
 ## Header 2
 
 > This is a blockquote following a header.
