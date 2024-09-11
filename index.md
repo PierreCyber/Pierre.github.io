@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Building a Network
 
-Here I am creating a simple network using Cisco's Packet Tracer software.
+Here I have created a simple network using Cisco's Packet Tracer software.
 
 ## Header 2
 
