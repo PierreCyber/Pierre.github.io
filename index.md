@@ -20,4 +20,6 @@ I configured a home lab using Elastic SIEM and a Kali Linux Virtual Machine.
 
 
 
+
+
 ## To be continued...
