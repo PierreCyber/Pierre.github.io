@@ -6,7 +6,9 @@ layout: default
 # Creating a Python Keylogger
 
 I used Python to create a REAL Keylogger on my personal computer!
+![branching](Captu.PNG)
 
+[HERE'S HOW:]
 
 
 # Building a Network
