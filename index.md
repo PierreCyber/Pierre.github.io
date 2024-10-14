@@ -5,9 +5,9 @@ layout: default
 # Coding a Port Scanner using PYTHON
 
 I used Python to create a Port Scanner!
+![branching](8 scanning.PNG)
 
-
-
+[SEE HOW I DID IT:](Python Port Scanner.pdf)
 
 
 
@@ -35,8 +35,6 @@ I configured a home lab using Elastic SIEM and a Kali Linux Virtual Machine.
 ![branching](dashhh.PNG)
 
 [This was the process:](Home SIEM Lab.pdf)
-
-
 
 
 
