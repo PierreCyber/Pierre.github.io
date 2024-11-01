@@ -7,7 +7,7 @@ layout: default
 I produced an Active Directory environment, successfully creating 2 new users, joined a computer to a new domain, and logged in as a domain user! Includes: Splunk, Windows Server 2022, Windows 10, Kali Linux
 ![branching](1.Diagram.PNG)
 
-[MY STEP BY STEP PROCESS:](Active Directory.pdf)
+[MY STEP BY STEP PROCESS:](ACTIVE DIRECTORYY.pdf)
 
 
 # Coding a Port Scanner using PYTHON
