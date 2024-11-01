@@ -2,6 +2,14 @@
 layout: default
 ---
 
+# Active Directory Lab
+
+I produced an Active Directory environment, successfully creating 2 new users, joined a computer to a new domain, and logged in as a domain user! Includes: Splunk, Windows Server 2022, Windows 10, Kali Linux
+
+
+
+
+
 # Coding a Port Scanner using PYTHON
 
 I used Python to create a Port Scanner!
